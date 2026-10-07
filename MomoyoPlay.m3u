@@ -1,0 +1,68 @@
+#EXTM3U
+
+
+##########################MomoyoPlay##########################
+
+#EXTINF:-1 group-title="Radio" ch-number="700" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/19001.v14.png",MNC Trijaya FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://proxy.rctiplus.com/?name=http://8.215.206.157:8002/
+
+#EXTINF:-1 group-title="Radio" ch-number="701" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/18943.v8.png",RDI FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://proxy.rctiplus.com/?name=http://8.215.206.157:8004/;
+
+#EXTINF:-1 group-title="Radio" ch-number="702" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v8.png",V Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://proxy.rctiplus.com/?name=http://8.215.206.157:8008/;
+
+#EXTINF:-1 group-title="Radio" ch-number="703" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/74317.v12.png",Pas FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://i.klikhost.com/8266/stream/
+
+#EXTINF:-1 group-title="Radio" ch-number="704" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/18826.v72.png",Kis FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://ic.mari.co.id:8443/kisfm
+
+#EXTINF:-1 group-title="Radio" ch-number="705" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/73707.v106.png",MOST Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.3
+https://ic.mari.co.id:8443/mostfm
+
+#EXTINF:-1 group-title="Radio" ch-number="706" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/19176.v16.png",Sonora FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://sonora-radio.arenastreaming.com/8130/stream
+
+#EXTINF:-1 group-title="Radio" ch-number="707" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/19749.v7.png",Smart FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://mediacp-sg1.arenastreaming.com:8006/stream
+
+#EXTINF:-1 group-title="Radio" ch-number="708" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/19062.v9.png",Bens Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://streaming.bensradio.com:8522/stream
+
+#EXTINF:-1 group-title="Radio" ch-number="709" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/18969.v13.png",Global Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://proxy.rctiplus.com/?name=http://8.215.206.157:8006/
+
+#EXTINF:-1 group-title="Radio" ch-number="710" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/18844.v17.png",RRI Pro 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+
+#EXTINF:-1 group-title="Radio" ch-number="711" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/18862.v17.png",RRI Pro 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
+
+#EXTINF:-1 group-title="Radio" ch-number="712" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/18875.v10.png",RRI Pro 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+
+#EXTINF:-1 group-title="Radio" ch-number="713" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/18876.v13.png",RRI Pro 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3
+
+#EXTINF:-1 group-title="Radio" ch-number="714" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/19971.v14.png",RRI Pro 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
+
+#EXTINF:-1 group-title="Radio" ch-number="715" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/109087.v7.png",RRI Voice Of Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
